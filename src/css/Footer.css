@@ -1,0 +1,53 @@
+.footer-row{
+    background-color: #333333;
+}
+
+.footer-sections{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px 50px 100px;
+}
+
+.footer-sections h3{
+    color: #FFDAC9;
+    font-family: "DIN";
+}
+
+.footer-sections h6{
+    color:#767676;
+    font-family: "GillSans";
+}
+
+.footer-info p{
+    color:#767676;
+    font-family: "GillSans";
+}
+
+.footer-logo-container{
+    color: #FFFFFF;
+    font-family: "DIN";
+    text-align: right;
+    padding: 50px 100px 50px 100px;
+}
+
+.footer-this-is-the{
+    font-size: 35px;
+}
+
+.footer-logo{
+    font-size: 42px;
+}
+
+.footer-sections-logo{
+    padding: 50px 100px 50px 100px;
+}
+
+.social-media{
+    display:flex;
+    margin-left: auto;
+}
+
+.footer-info-container{
+    display: flex;
+    padding: 50px 100px 50px 100px;
+}

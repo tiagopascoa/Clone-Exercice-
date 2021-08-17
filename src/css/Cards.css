@@ -1,0 +1,59 @@
+.fifth-row-container{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.fifth-row-1{
+    margin-top: 100px  !important;
+    margin-bottom: 50px !important;
+
+}
+
+.title-1-container {
+    
+    font-family: "DIN";
+}
+
+.title-2-container {
+    display: flex;
+    flex-direction: column;
+    font-family: "DIN";
+    text-align: right;
+
+}
+
+.card-title{
+    font-family: "DIN";
+    font-size: 25px !important;
+}
+
+.card-text{
+    font-family: "GillSans";
+    color:#767676;
+    font-size: 15px !important;
+}
+
+.difficulty{
+    font-family: "DIN";
+    color: #767676;
+    font-size: 20px !important;
+}
+
+
+.card-img{
+    height: 250px !important;
+    
+}
+.cards{
+    box-shadow: 0 4px 8px 0 #0000000A, 0 6px 20px 0 #0000000A;
+    border: 0;
+    height:  500px;
+}
+
+.arrows-container{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 50px;
+}

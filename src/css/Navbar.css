@@ -1,0 +1,17 @@
+.navbar{
+    font-family: "DIN";
+    background-color: transparent;
+}
+
+.navbar.scrolled{
+    background-color: green !important;
+}
+
+.nav-link{
+    font-size: 1.3rem;
+    color: black !important;
+}
+.navbrand{
+    font-size: 2rem !important;
+}
+
